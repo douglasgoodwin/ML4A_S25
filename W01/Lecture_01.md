@@ -80,7 +80,7 @@ Four main types of activities:
 
 1. Lecture (Current)
 2. Debate: Digital vs. Analog Art Making
-3. Janelle Shane, https://www.youtube.com/watch?v=hpOz6-Wlz_4
+3. Janelle Shane, https://www.ted.com/talks/janelle_shane_the_danger_of_ai_is_weirder_than_you_think
 4. Workshop Exercise:
    - Style translation practice
    - Working with different writing styles
@@ -110,7 +110,7 @@ Four main types of activities:
 
 # Github
 
-https://github.com/douglasgoodwin/creativemachines_w25
+https://github.com/douglasgoodwin/ML4A_S25
 
 
 ---
@@ -118,4 +118,6 @@ https://github.com/douglasgoodwin/creativemachines_w25
 
 # POLL
 
-https://docs.google.com/forms/d/1EWs7ThpnwtO-YSdpkg714R0u2FGlFi52X5ebGvT6rPk/edit
+https://forms.gle/ZQkCrs7pTC8DuHZ76
+
+[report](https://docs.google.com/forms/d/17-vVK6NKO_9SlvkgflCfjR60sjMlIdwkdlPtwObdrR4/edit#responses)
